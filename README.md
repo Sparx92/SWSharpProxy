@@ -12,4 +12,4 @@ Initial solution is just a console app reading a base64 dummy string in /SWSharp
 3. Build Proxy functionality
   * An alternative is use Fiddler for response capture, then take the body and use it as the dummy string.
   
-Thanks to [kakaroto]https://github.com/kakaroto/SWProxy and [crayontxx]https://github.com/crayontxx/SWProxy-GO
+Thanks to [kakaroto](https://github.com/kakaroto/SWProxy) and [crayontxx](https://github.com/crayontxx/SWProxy-GO)
